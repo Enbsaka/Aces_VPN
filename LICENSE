@@ -1,0 +1,11 @@
+Copyright (c) 2026 Enbsaka. Todos os direitos reservados.
+
+O Saka SS é software proprietário e distribuído gratuitamente apenas na forma de instalador
+executável. É proibido copiar, modificar, descompilar, fazer engenharia reversa, redistribuir
+ou vender o software, no todo ou em parte, sem autorização prévia e por escrito do autor.
+
+O software é fornecido "no estado em que se encontra", sem garantias de qualquer tipo.
+O autor não se responsabiliza por quaisquer danos decorrentes do seu uso.
+
+Componentes de terceiros incluídos no instalador (OpenVPN, OpenSSL, driver TAP-Windows6)
+permanecem sob as suas respectivas licenças.
